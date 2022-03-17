@@ -1,21 +1,18 @@
 header{ 
   height: 75px;
   width: 100%;
-  position: fixed;
   top: 0;
   left: 0;
   background: black;
 }
 body{
   background-color: black;;
-  margin: 0;
-  height: 1000px;
+  margin: auto;
 }
 footer{
   background: linear-gradient(#101b1c ,93% , #ff0028);
   height: 200px;
   width: 100%;
-  position: fixed;
   bottom: 0;
   display: grid;
 }
@@ -52,13 +49,13 @@ h1{
   font-family: "Inter Bold";
   src: url('font/Inter-Bold.woff') format('woff');
 }
-.paragraph {
+.featured_article {
   border-top:1px solid #343434;
   border-bottom:1px solid #343434;
   height: 75px;
   margin-top: 75px;
 }
-.article {
+.paragraph {
   color: grey;
   text-align: left;
   padding-left: 25px;
