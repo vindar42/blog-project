@@ -138,25 +138,6 @@ ul{
   height: 1564px;
 }
 
-
-@media only screen and (max-width: 768px){
-  
-  .articles{
-    display: block;
-  }
-  
-  .articles .img-node{
-    width: 100%;
-  }
-  .articles .title{
-    width: 100%;
-  }
-  
-  category{
-    width: 100%;
-  }
-}
-
 .latest-articles{
   float: left;
   height: 75px;
@@ -272,7 +253,35 @@ h4{
   font-weight: bold;
   font-size: 12pt;
 }
+ @media only screen and (max-width: 768px){
   
+  .articles{
+    display: block;
+  }
+  
+  .articles .img-node{
+    width: 100%;
+  }
+  .articles .title{
+    width: 100%;
+  }
+  
+  category{
+    width: 100%;
+    display: block;
+  }
+   .container{
+     display: block;
+   }
+   .containers .latest-articles{
+     width: 100%;
+   }
+   .containers .group{
+     width: 100%
+   }
+}
+
+
 .footer{
   display: inline-block;
 }
