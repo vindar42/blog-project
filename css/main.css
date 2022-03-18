@@ -289,6 +289,7 @@ h4{
    
    .containers{
      width: 100%;
+     border: none;
    }
      
    .containers .latest-articles{
