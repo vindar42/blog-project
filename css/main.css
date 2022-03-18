@@ -256,19 +256,23 @@ h4{
  @media only screen and (max-width: 768px){
   
   .articles{
-    display: flex;
+    display: table;
   }
   
   .articles .img-node{
     width: 100%;
   }
+   
+ .articles .title{
+   width: 100%;
+   }
   
   category{
     width: 100%;
-    display: block;
+    display: table;
   }
    .containers{
-     display: block;
+     display: table;
    }
    .containers .latest-articles{
      width: 100%;
