@@ -288,11 +288,16 @@ h4{
    .group{
      display: table;
    }
-   
    .group .img-1{
      width: 100%;
    }
    .group .img-2{
+     width: 100%;
+   }
+   .group .img-3{
+     width: 100%;
+   }
+   .group .img-4{
      width: 100%;
    }
 }
