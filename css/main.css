@@ -267,14 +267,17 @@ h4{
    width: 100%;
    }
   
-  category{
+ .content{
+   display: block;
+   }
+  .content .category{
     width: 100%;
-    flex-direction: row;
   }
    
    .containers{
-     display: table;
+     width: 100%;
    }
+     
    .containers .latest-articles{
      width: 100%;
    }
