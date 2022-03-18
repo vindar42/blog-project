@@ -269,8 +269,9 @@ h4{
   
   category{
     width: 100%;
-    display: table;
+    flex-direction: row;
   }
+   
    .containers{
      display: table;
    }
