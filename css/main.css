@@ -80,6 +80,7 @@ h1{
   float: right;
   margin-top: 0;
   color: white;
+  padding-left: 20px;
 }
 
 
@@ -92,7 +93,7 @@ h1{
 .title{
   width: 48%;
   float: right;
-  margin-left: 2px;
+  padding-left: 20px;
   color: white;
   font-size: 12pt;
   height: 200px;
@@ -265,7 +266,6 @@ h4{
    
  .articles .title{
    padding-bottom: 30px;
-   margin-left: 20px;
    }
   
  .content{
@@ -275,7 +275,7 @@ h4{
     width: 100%;
   }
    
-  .category ul{
+  .category li{
     display: inline-block;
    }
    
