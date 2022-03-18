@@ -264,7 +264,6 @@ h4{
   }
    
  .articles .title{
-   width: 100%;
    padding-bottom: 30px;
    margin-left: 20px;
    }
@@ -276,7 +275,7 @@ h4{
     width: 100%;
   }
    
-  .content ul{
+  .category ul{
     display: inline-block;
    }
    
