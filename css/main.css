@@ -93,7 +93,7 @@ h1{
 .title{
   width: 48%;
   float: right;
-  padding-left: 20px;
+  padding-left: 5px;
   color: white;
   font-size: 12pt;
   height: 200px;
@@ -275,8 +275,13 @@ h4{
     width: 100%;
   }
    
+   .category h4{
+     float: left;
+   }
+   
   .category li{
     display: inline-block;
+    text-align: center;
    }
    
    .containers{
