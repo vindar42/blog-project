@@ -241,7 +241,11 @@ h4{
   font-size: 12pt;
 }
  @media only screen and (max-width: 768px){
-  
+   
+  body{
+    margin: 0;
+   }
+   
   .articles{
     display: table;
   }
