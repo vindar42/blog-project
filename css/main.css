@@ -280,9 +280,12 @@ h4{
      float: left;
    }
    
+   .category ul{
+     padding-left: 10px;
+   }
+   
   .category li{
     display: inline-block;
-    padding-left: 5px;
    }
    
    .containers{
