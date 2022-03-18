@@ -20,6 +20,10 @@ footer{
   display: grid;
 }
 
+.flex{
+  display: flex;
+}
+
 .logo{
   float: left;
   width: 40px;
