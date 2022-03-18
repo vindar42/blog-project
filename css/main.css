@@ -305,6 +305,7 @@ h4{
    .group .img-1{
      width: 100%;
      padding-bottom: 30px;
+     border-right: none;
    }
    .group .img-2{
      width: 100%;
@@ -314,6 +315,7 @@ h4{
    .group .img-3{
      width: 100%;
      padding-bottom: 30px;
+     border-right: none;
    }
    .group .img-4{
      width: 100%;
