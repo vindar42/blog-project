@@ -74,16 +74,6 @@ h1{
   border-bottom: 1px solid #343434;
 }
 
-.category{
-  width: 39%;
-  height: 1000px;
-  float: right;
-  margin-top: 0;
-  color: white;
-  padding-left: 20px;
-}
-
-
 .img-node{
   float: left;
   width: 50%;
@@ -132,10 +122,19 @@ ul{
   height-line: 1em;     
 }
 
+.category{
+  width: 39%;
+  height: 1000px;
+  float: right;
+  margin-top: 0;
+  color: white;
+  padding-left: 20px;
+}
+
 .containers{
   width: 60%;
   border-right: 1px solid #343434;
-  height: 1200px;
+  height: 1500px;
 }
 
 .latest-articles{
@@ -267,10 +266,7 @@ h4{
    padding-bottom: 30px;
    float: left;
    padding-left: 20px;
-   }
-   
-   .title p{
-     Subtitle--Lorem ipsum dolor sit amet,<br> consectetur adipiscing elit, sed do eiusmod<br> tempor incididunt ut labore et dolore magna<br> aliqua.
+   width: 100%;
    }
   
  .content{
