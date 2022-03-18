@@ -67,8 +67,24 @@ h1{
   padding-top: 28px;
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (min-width: 768px){
   
+  .articles{
+    display: block;
+  }
+  
+  .articles .img-node{
+    width: 100%;
+  }
+  .articles .title{
+    width: 100%;
+  }
+  
+  category{
+    width: 100%;
+  }
+}
+
 .articles{
   width: 100%;
   height: 350px;
@@ -255,9 +271,7 @@ h4{
   font-weight: bold;
   font-size: 12pt;
 }
-
-}
-
+  
 .footer{
   display: inline-block;
 }
