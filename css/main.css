@@ -282,11 +282,18 @@ h4{
      width: 100%;
    }
    .containers .group{
-     width: 100%
+     width: 100%;
    }
    
    .group{
      display: table;
+   }
+   
+   .group .img-1{
+     width: 100%;
+   }
+   .group .img-2{
+     width: 100%;
    }
 }
 
