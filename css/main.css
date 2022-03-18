@@ -30,11 +30,12 @@ footer{
   height: 40px;
   padding-left: 20px;
 }
-@media only screen and (max-width: 815px) and (min-width: 500px) 
+@media only screen and (max-width: 815px) and (min-width: 500px)
 {
   .logo {
     width:0%;
     display: none;
+  }
 }
 
 h1{
